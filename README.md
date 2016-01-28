@@ -8,6 +8,7 @@ The main reasons behind splitting tests over multiple repositories are portabili
 ## Test included
 * Test for UTF-8
 * Test for spaces instead of tabs
+* Test using PSScriptAnalyzer rules
 
 ## Other Testing repositories
 * PowerShell.Module.Tests
